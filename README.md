@@ -1,3 +1,6 @@
+# Run cheUp.sh to start the environment. Once started, go to localhost:8080 to see the workspace.
+# This workspace contains two projects. Run web-php-hello-hwf and ignore the hello-simple project
+
 # web-php-apache2-simple
 A hello world PHP script
 
